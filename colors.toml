@@ -1,0 +1,23 @@
+accent = "#E87D3E"
+cursor = "#E87D3E"
+foreground = "#e0e0e0"
+background = "#121212"
+selection_foreground = "#ffffff"
+selection_background = "#632523"
+
+color0 = "#121212"
+color1 = "#632523" # Maroon
+color2 = "#E87D3E" # Orange
+color3 = "#FFB38A" # Light Orange
+color4 = "#9E1B32" # Light Maroon
+color5 = "#632523" # Maroon
+color6 = "#E87D3E" # Orange
+color7 = "#cccccc" # Light Grey
+color8 = "#424242" # Dark Grey
+color9 = "#9E1B32" # Bright Maroon
+color10 = "#FFB38A" # Bright Orange
+color11 = "#FFB38A" # Bright Orange
+color12 = "#632523" # Maroon
+color13 = "#9E1B32" # Light Maroon
+color14 = "#E87D3E" # Orange
+color15 = "#ffffff" # White
