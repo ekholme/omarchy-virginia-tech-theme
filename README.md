@@ -2,7 +2,9 @@
 
 A bold, high-contrast dark theme for [Omarchy](https://omarchy.org) inspired by the colors of Virginia Tech: maroon and orange.
 
-![Virginia Tech preview](wallpaper.svg)
+![VT Preview](vt_preview.png)
+
+![Gobbler background](backgrounds/gobbler.png)
 
 ## Install
 
